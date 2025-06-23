@@ -1,5 +1,6 @@
 {
     "name": "collect the carrots",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
